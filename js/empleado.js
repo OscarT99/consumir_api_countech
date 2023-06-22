@@ -1,5 +1,5 @@
 //al desplegar en el servidor colocar la base de datos del servidor 
-const url = 'http://localhost:8091/api/empleado'
+const url = 'https://api-countech.onrender.com/api/empleado'
 
 const listarDatos= async()=>{
     let respuesta=''
